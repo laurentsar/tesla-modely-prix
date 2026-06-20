@@ -1,0 +1,14 @@
+{
+  "updated": "2026-06-20",
+  "source": "CheckmonCredit + sites banques (indicatif, VE ~30 k€)",
+  "credits": [
+    { "organisme":"BoursoBank (ex-Boursorama)", "offre":"Prêt perso écoresponsable", "taeg":0.90, "montant":"5 000–50 000 €", "duree":"12–72 mois", "frais":"0 € · 100% en ligne", "note":"≈ −1,2 pt vs prêt standard. Meilleur taux auto observé dès 0,59 %.", "url":"https://www.boursobank.com/credit/pret-personnel" },
+    { "organisme":"CIC", "offre":"Éco-mobilité (VE)", "taeg":1.0, "montant":"jusqu'à 75 000 €", "duree":"jusqu'à 84 mois", "frais":"Frais de dossier offerts", "note":"VE 100% (hybride : 5,01 %). Sans apport, neuf ou occasion.", "url":"https://www.cic.fr/fr/particuliers/credits/eco-mobilite.html" },
+    { "organisme":"Crédit Mutuel", "offre":"Éco-mobilité (VE)", "taeg":1.0, "montant":"jusqu'à 75 000 €", "duree":"jusqu'à 84 mois", "frais":"Frais de dossier offerts", "note":"Même groupe que le CIC, conditions similaires.", "url":"https://www.creditmutuel.fr/fr/particuliers/credits/eco-mobilite.html" },
+    { "organisme":"Crédit Agricole", "offre":"Prêt Vert Auto", "taeg":1.9, "montant":"sur simulation", "duree":"60 mois", "frais":"Frais offerts · franchise 3 mois", "note":"Réservé aux véhicules 100% électriques.", "url":"https://www.credit-agricole.fr/particulier/conseils/magazine/tout-un-mag/quelles-aides-financieres-pour-l-achat-d-un-vehicule-electrique.html" },
+    { "organisme":"La Banque Postale", "offre":"Éco-Prêt Mobilité", "taeg":2.1, "montant":"sur simulation", "duree":"jusqu'à 84 mois", "frais":"0 € de frais de dossier", "note":"Modulation des échéances possible. Prêt Véhicule Vert classique ≈ 4,99 %.", "url":"https://www.labanquepostale.fr/particulier/emprunter/financement-vehicule-pret-personnel-auto/pret-personnel-auto-vert.html" },
+    { "organisme":"Cetelem (BNP)", "offre":"Crédit auto + prime verte", "taeg":null, "montant":"sur simulation", "duree":"12–84 mois", "frais":"variable", "note":"Référence du crédit « vert », bonus de taux pour VE. Taux selon profil.", "url":"https://www.cetelem.fr/credits/credit-auto" },
+    { "organisme":"Caisse d'Épargne", "offre":"Crédit auto VE", "taeg":null, "montant":"sur devis", "duree":"sur devis", "frais":"réduits pour clients", "note":"Taux préférentiel VE possible, mais souvent 0,5–1 pt au-dessus des banques en ligne.", "url":"https://www.caisse-epargne.fr/particuliers/credit-consommation/credit-auto/" },
+    { "organisme":"Younited / Cofidis / FLOA", "offre":"Prêt perso en ligne", "taeg":null, "montant":"1 000–50 000 €", "duree":"6–84 mois", "frais":"variable", "note":"Réponse rapide en ligne. Taux très variable selon profil (0,5 % à 21 %).", "url":"https://www.younited-credit.com/credit-auto" }
+  ]
+}
