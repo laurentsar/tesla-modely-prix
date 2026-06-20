@@ -1,0 +1,23 @@
+{
+  "updated": "2026-06-20",
+  "source": "Configurateur Tesla FR / L'Argus",
+  "versions": [
+    { "id":"std",      "nom":"Standard Propulsion",               "prix":39990, "autonomie":534, "v100":6.2, "vmax":201, "moteur":"1 — propulsion", "batterie":"≈ 62 kWh (LFP)", "conso":14.9, "places":5 },
+    { "id":"ga_prop",  "nom":"Grande Autonomie Propulsion",       "prix":44990, "autonomie":657, "v100":5.9, "vmax":201, "moteur":"1 — propulsion", "batterie":"≈ 78 kWh",       "conso":13.0, "places":5 },
+    { "id":"ga_prop_p","nom":"Premium GA Propulsion",             "prix":46990, "autonomie":657, "v100":5.9, "vmax":201, "moteur":"1 — propulsion", "batterie":"≈ 78 kWh",       "conso":13.0, "places":5 },
+    { "id":"ga_awd",   "nom":"Premium GA Transmission Intégrale", "prix":52990, "autonomie":600, "v100":4.8, "vmax":201, "moteur":"2 — intégrale",  "batterie":"≈ 79 kWh",       "conso":14.5, "places":5 },
+    { "id":"ga_awd7",  "nom":"GA Intégrale 7 places",             "prix":55490, "autonomie":600, "v100":4.8, "vmax":201, "moteur":"2 — intégrale",  "batterie":"≈ 79 kWh",       "conso":15.0, "places":7 },
+    { "id":"perf",     "nom":"Performance",                       "prix":61990, "autonomie":580, "v100":3.5, "vmax":250, "moteur":"2 — intégrale",  "batterie":"≈ 79 kWh",       "conso":15.5, "places":5 }
+  ],
+  "aides": {
+    "bonus": {
+      "montant": 4000,
+      "plafondPrix": 47000,
+      "note": "Bonus écologique : sous conditions de revenu (revenu fiscal de référence par part). Plafond de prix d'achat 47 000 € — les versions Standard et Grande Autonomie Propulsion passent sous ce seuil, pas les Transmission Intégrale ni la Performance. La Model Y est fabriquée à Berlin → éligible au score environnemental (contrairement à des modèles produits hors UE)."
+    },
+    "prime": {
+      "montant": 1500,
+      "note": "Prime à la conversion : pour la mise au rebut d'un vieux véhicule (diesel d'avant 2011 / essence d'avant 2006), sous conditions de revenu. Jusqu'à 3 000 € pour les ménages les plus modestes."
+    }
+  }
+}
