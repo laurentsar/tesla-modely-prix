@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-20",
-  "source": "Configurateur Tesla FR / L'Argus",
+  "updated": "2026-09-01",
+  "source": "L'Argus (fiches techniques) / Automobile-Propre — vérification croisée sept. 2026",
   "versions": [
     { "id":"std",      "nom":"Standard Propulsion",               "prix":40990, "autonomie":534, "v100":6.2, "vmax":201, "moteur":"1 — propulsion", "batterie":"≈ 62 kWh (LFP)", "conso":14.9, "places":5 },
     { "id":"ga_prop",  "nom":"Grande Autonomie Propulsion",       "prix":44990, "autonomie":657, "v100":5.9, "vmax":201, "moteur":"1 — propulsion", "batterie":"≈ 78 kWh",       "conso":13.0, "places":5 },
-    { "id":"ga_prop_p","nom":"Premium GA Propulsion",             "prix":46990, "autonomie":657, "v100":5.9, "vmax":201, "moteur":"1 — propulsion", "batterie":"≈ 78 kWh",       "conso":13.0, "places":5 },
+    { "id":"ga_prop_p","nom":"Premium GA Propulsion",             "prix":46990, "autonomie":603, "v100":5.9, "vmax":201, "moteur":"1 — propulsion", "batterie":"≈ 78 kWh",       "conso":13.0, "places":5 },
     { "id":"ga_awd",   "nom":"Premium GA Transmission Intégrale", "prix":52990, "autonomie":600, "v100":4.8, "vmax":201, "moteur":"2 — intégrale",  "batterie":"≈ 79 kWh",       "conso":14.5, "places":5 },
     { "id":"ga_awd7",  "nom":"GA Intégrale 7 places",             "prix":55490, "autonomie":600, "v100":4.8, "vmax":201, "moteur":"2 — intégrale",  "batterie":"≈ 79 kWh",       "conso":15.0, "places":7 },
     { "id":"perf",     "nom":"Performance",                       "prix":61990, "autonomie":580, "v100":3.5, "vmax":250, "moteur":"2 — intégrale",  "batterie":"≈ 79 kWh",       "conso":15.5, "places":5 }
